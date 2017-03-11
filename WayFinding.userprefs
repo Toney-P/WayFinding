@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2358A711-3E28-40A2-ADF9-EBCF29E98636}|Default">
+  <MonoDevelop.Ide.ItemProperties.WayFinding PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.29A804A9-0A25-4F56-B5CE-BD461D6022B3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WayFinding/NewsCell.cs" Line="17" Column="29" />
+      <File FileName="WayFinding/ViewController.cs" Line="20" Column="20" />
+      <File FileName="WayFinding/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

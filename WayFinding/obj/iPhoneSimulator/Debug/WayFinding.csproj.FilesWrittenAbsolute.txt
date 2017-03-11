@@ -1,0 +1,9 @@
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/optimized/
+/Users/Toney/Projectsi/WayFinding/WayFinding/bin/iPhoneSimulator/Debug/WayFinding.exe.mdb
+/Users/Toney/Projectsi/WayFinding/WayFinding/bin/iPhoneSimulator/Debug/WayFinding.exe
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/WayFinding.exe
+/Users/Toney/Projectsi/WayFinding/WayFinding/obj/iPhoneSimulator/Debug/WayFinding.exe.mdb
